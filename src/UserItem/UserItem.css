@@ -1,0 +1,19 @@
+ul {
+    width: 40%;
+    margin: auto;
+    margin-bottom: 25px;
+    list-style-type: none;
+    border-radius: 10px;
+    font-size: 1.5em;
+    text-align: left;
+    padding: 5px 0px 5px 25px;
+    background-color: #ebe7d6;
+    color: #0b1f65;
+    font-weight: bold;
+    word-wrap: break-word;
+}
+ul:hover {
+    cursor: pointer;
+    background-color: #0b1f65;
+    color: #ebe7d6;
+}
